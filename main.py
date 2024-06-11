@@ -43,7 +43,7 @@ def load_plugins(plugin_name):
     load = importlib.util.module_from_spec(spec)
     load.logger = logging.getLogger(plugin_name)
     spec.loader.exec_module(load)
-    sys.modules["STORM.modules." + plugin_name] = load
+    sys.modules["FLASH.modules." + plugin_name] = load
     print("ꜱᴛᴏʀᴍ ʜᴀꜱ ɪᴍᴘᴏʀᴛᴇᴅ" + plugin_name)
 
 
