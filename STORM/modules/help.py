@@ -28,12 +28,12 @@ from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, SUDO_USERS, CMD_HNDL
 HELP_STRING = f"""
 ✨ **ʙᴏᴛ ʜᴇʟᴘ** ✨
 
-**[ꜱᴛᴏʀᴍ ꜱᴘᴀᴍ ʙᴏᴛ](https://t.me/Kexx_XD) ʜᴇʟᴘ ᴍᴇɴᴜ** 🥀
+**[ꜱᴛᴏʀᴍ ꜱᴘᴀᴍ ʙᴏᴛ](https://t.me/II_DHIRAJ_II) ʜᴇʟᴘ ᴍᴇɴᴜ** 🥀
 
-**ʜᴇʟᴘ ᴍᴇɴᴜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ [ꜱᴛᴏʀᴍ](https://github.com/VARC9210/STORM)** ✨
+**ʜᴇʟᴘ ᴍᴇɴᴜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ [ꜱᴛᴏʀᴍ](https://github.com/Dhiraj7867/STORM)** ✨
 
-**ᴄʜᴀɴɴᴇʟ: [ꜱᴛᴏʀᴍ ᴛᴇᴄʜ 🇮🇳](https://t.me/STORM_TECHH)**
-**ꜱᴜᴘᴘᴏʀᴛ: [ꜱᴛᴏʀᴍ ᴄʜᴀᴛᴢ 🇮🇳](https://t.me/STORM_CHATZ)**
+**ᴄʜᴀɴɴᴇʟ: [ғʟᴀsʜ ᴛᴇᴄʜ 🇮🇳](https://t.me/FLASH_TECHH)**
+**ꜱᴜᴘᴘᴏʀᴛ: [ғʟᴀsʜ ᴄʜᴀᴛᴢ 🇮🇳](https://t.me/FLASH_CHATZ)**
 """
 HELP_BUTTON = [
     [
@@ -231,12 +231,12 @@ async def helpback(event):
                 Button.inline("• ᴏᴡɴᴇʀ •", data="owner")
               ],
               [
-                Button.url("• ꜱᴜᴘᴘᴏʀᴛ •", "https://t.me/STORM_CHATZ")
+                Button.url("• ꜱᴜᴘᴘᴏʀᴛ •", "https://t.me/FLASH_CHATZ")
               ]
             ]
           )
     else:
-        await event.answer("ɴᴏᴏʙ ! ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ꜱᴛᴏʀᴍ ꜱᴘᴀᴍ ʙᴏᴛꜱ !! @KKEX_XD", cache_time=0, alert=True)
+        await event.answer("ɴᴏᴏʙ ! ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ғʟᴀsʜ ꜱᴘᴀᴍ ʙᴏᴛꜱ !! @II_DHIRAJ_II", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"spam"))
@@ -255,7 +255,7 @@ async def help_spam(event):
               buttons=[[Button.inline("🔙 ʙᴀᴄᴋ", data="help_back"),],],
               ) 
     else:
-        await event.answer("ɴᴏᴏʙ ! ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ꜱᴛᴏʀᴍ ꜱᴘᴀᴍ ʙᴏᴛꜱ !! @KKEX_XD", cache_time=0, alert=True)
+        await event.answer("ɴᴏᴏʙ ! ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ғʟᴀsʜ ꜱᴘᴀᴍ ʙᴏᴛꜱ !! @II_DHIRAJ_II", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"raid"))
@@ -274,7 +274,7 @@ async def help_raid(event):
             buttons=[[Button.inline("🔙 ʙᴀᴄᴋ", data="help_back"),],],
           )
     else:
-        await event.answer("ɴᴏᴏʙ ! ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ꜱᴛᴏʀᴍ ꜱᴘᴀᴍ ʙᴏᴛꜱ !! @KKEX_XD", cache_time=0, alert=True)
+        await event.answer("ɴᴏᴏʙ ! ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ғʟᴀsʜ ꜱᴘᴀᴍ ʙᴏᴛꜱ !! @II_DHIRAJ_II", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"extra"))
@@ -293,4 +293,4 @@ async def help_extra(event):
             buttons=[[Button.inline("🔙 ʙᴀᴄᴋ", data="help_back"),],],
             )
     else:
-        await event.answer("ɴᴏᴏʙ ! ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ꜱᴛᴏʀᴍ ꜱᴘᴀᴍ ʙᴏᴛꜱ !! @KKEX_XD", cache_time=0, alert=True)
+        await event.answer("ɴᴏᴏʙ ! ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ғʟᴀsʜ ꜱᴘᴀᴍ ʙᴏᴛꜱ !! @II_DHIRAJ_II", cache_time=0, alert=True)
