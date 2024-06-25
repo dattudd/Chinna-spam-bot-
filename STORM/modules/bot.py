@@ -34,18 +34,18 @@ from telethon.tl.custom import button
 from os import execl, getenv
 from telethon.tl.functions.channels import LeaveChannelRequest
 
-pongg = "ꜱ ᴛ ᴏ ʀ ᴍ"
-PIC = "https://graph.org/file/5d4a2dbf4f196fcdfe4d2.mp4"
-Alivemsg = "ꜱᴛᴏʀᴍ x ꜱᴘᴀᴍ ʜᴇʀᴇ"
+pongg = "ғ ʟ ᴀ s ʜ"
+PIC = "https://telegra.ph/file/71133c6d82842b7d5f097.jpg"
+Alivemsg = "ғʟᴀsʜ x ꜱᴘᴀᴍ ʜᴇʀᴇ"
 
-TEXT = f"‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ㅤㅤㅤ • ꜱᴛᴏʀᴍ ɪꜱ ᴀʟɪᴠᴇ • ㅤㅤㅤ\n"
+TEXT = f"‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ㅤㅤㅤ • ғʟᴀsʜ ɪꜱ ᴀʟɪᴠᴇ • ㅤㅤㅤ\n"
 TEXT = f"‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ㅤ ʙᴏᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ‌🪽\n"
 TEXT += f"➖➖➖➖➖➖➖➖➖➖➖\n"
 TEXT += f"**• ᴘʏᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** 🐍: `3.11.3`\n"
 TEXT += f"**• ʙᴏᴛ ᴠᴇʀꜱɪᴏɴ** ⚙️: `M3.0`\n"
-TEXT += f"**• ɢʀᴏᴜᴘ 💫: [ꜱᴛᴏʀᴍ ᴄʜᴀᴛᴢ 🥀](https://t.me/STORM_CHATZ)**\n"
-TEXT += f"**• ᴄʜᴀɴɴᴇʟ ✨: [ꜱᴛᴏʀᴍ ᴛᴇᴄʜ 🥀](https://t.me/STORM_TECHH)**\n"
-TEXT += f"**• ꜱᴇɴꜱᴇɪ 🫂: [ᴋᴇx 🥀](https://t.me/kexx_XD)**\n"
+TEXT += f"**• ɢʀᴏᴜᴘ 💫: [ғʟᴀsʜ ᴄʜᴀᴛᴢ 🥀](https://t.me/FLASH_CHATZ)**\n"
+TEXT += f"**• ᴄʜᴀɴɴᴇʟ ✨: [ғʟᴀsʜ ᴛᴇᴄʜ 🥀](https://t.me/FLASH_TECHH)**\n"
+TEXT += f"**• ꜱᴇɴꜱᴇɪ 🫂: [ᴅʜɪʀᴀᴊ 🥀](https://t.me/II_DHIRAJ_II)**\n"
 TEXT += f"➖➖➖➖➖➖➖➖➖➖➖"
                                   
 @X1.on(events.NewMessage(incoming=True, pattern=r"\%salive(?: |$)(.*)" % hl))
@@ -131,7 +131,7 @@ async def logs(KEX):
         fetch = await KEX.reply(f"ꜰᴇᴛᴄʜʜɪɴɢ ʟᴏɢꜱ ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ 📄...")
     
         with open("Logs.txt", "w") as logfile:
-            logfile.write("ꜱᴛᴏʀᴍ 𝚇 🍷 [ Bot Logs ]\n\n" + logs)
+            logfile.write("ғʟᴀsʜ 𝚇 🍷 [ Bot Logs ]\n\n" + logs)
 
         end = datetime.now()
         ms = (end-start).seconds
@@ -190,10 +190,10 @@ async def leave(e):
 async def ping(e):
     if e.sender_id in SUDO_USERS:
         start = datetime.now()
-        KEX = await e.reply(f"🌩")
+        KEX = await e.reply(f"❤️")
         end = datetime.now()
         mp = (end - start).microseconds / 10000
-        await KEX.edit(f"ꜱ ᴛ ᴏ ʀ ᴍ 🥀\nᴛʜᴇ ᴄᴀʟᴍ ʙᴇꜰᴏʀᴇ ᴛʜᴇ ꜱᴛᴏʀᴍ ⚡\n» `{mp} ᴍꜱ`") 
+        await KEX.edit(f"ғ ʟ ᴀ s ʜ 🥀\nᴛʜᴇ ᴄᴀʟᴍ ʙᴇꜰᴏʀᴇ ᴛʜᴇ ғʟᴀsʜ ⚡\n» `{mp} ᴍꜱ`") 
 
 @X1.on(events.NewMessage(incoming=True, pattern=r"\%ssudo(?: |$)(.*)" % hl))
 @X2.on(events.NewMessage(incoming=True, pattern=r"\%ssudo(?: |$)(.*)" % hl))

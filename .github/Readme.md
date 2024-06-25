@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">──「 𝐒 𝐓 𝐎 𝐑 𝐌 🥀」──</p> 
+<p align="center">──「 𝐅 𝐋 𝐀 𝐒 𝐇 🥀」──</p> 
     
 <h2 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓<h2>
 
@@ -9,31 +9,31 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/VARC9210/STORM/commits/STORM"><img src="https://img.shields.io/github/last-commit/VARC9210/STORM?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
-    <a href="https://travis-ci.com/VARC9210/STORM.svg?branch=STORM" /></a>
-    <a href="https://github.com/VARC9210/STORM/issues"> <img src="https://img.shields.io/github/issues/VARC9210/STORM?color=blue&logo=github&style=for-the-badge" /></a>
-    <a href="https://github.com/VARC9210/STORM"> <img src="https://img.shields.io/github/repo-size/VARC9210/STORM?logo=github&style=for-the-badge" /></a>
-    <a href="https://github.com/VARC9210/STORM/network/members"> <img src="https://img.shields.io/github/forks/VARC9210/STORM?logo=github&style=for-the-badge" /></a>
+    <a href="https://github.com/Dhiraj7867/STORM/commits/STORM"><img src="https://img.shields.io/github/last-commit/dhiraj7868/STORM?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
+    <a href="https://travis-ci.com/dhiraj7867/STORM.svg?branch=STORM" /></a>
+    <a href="https://github.com/dhiraj7867/STORM/issues"> <img src="https://img.shields.io/github/issues/dhiraj7867/STORM?color=blue&logo=github&style=for-the-badge" /></a>
+    <a href="https://github.com/dhiraj7867/STORM"> <img src="https://img.shields.io/github/repo-size/dhiraj7867/STORM?logo=github&style=for-the-badge" /></a>
+    <a href="https://github.com/dhiraj7867/STORM/network/members"> <img src="https://img.shields.io/github/forks/dhiraj7867/STORM?logo=github&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Pyrogram/"><img src="https://img.shields.io/pypi/v/Pyrogram?color=important&label=Pyrogram&logo=python&logoColor=brightgreen&style=for-the-badge" /></a>
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.10.2-white?style=for-the-badge&logo=appveyor"/>
-    <a href="https://t.me/STORM_TECHH"><img src="https://img.shields.io/badge/Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-    <a href="https://t.me/STORM_CHATZ"><img src="https://img.shields.io/badge/Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+    <a href="https://t.me/flash_TECHH"><img src="https://img.shields.io/badge/Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+    <a href="https://t.me/flash_CHATZ"><img src="https://img.shields.io/badge/Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
     </p>
     
-<b> ᴠɪꜱɪᴛᴏʀꜱ <img src="https://github.com/VARC9210/STORM/blob/main/res/Z30J.gif" width="20px"></b><br>
+<b> ᴠɪꜱɪᴛᴏʀꜱ <img src="https://github.com/dhiraj7867/STORM/blob/main/res/Z30J.gif" width="20px"></b><br>
  
-![](https://count.getloli.com/get/@VARC9210.github.STORM)
+![](https://count.getloli.com/get/@dhiraj7867.github.STORM)
 </br>
 
 ## ʀᴇᴘᴏ ꜱᴛᴀᴛꜱ
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=VARC9210&repo=STORM\&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=dhiraj7867&repo=STORM\&theme=dark)
 
 ## ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
 ## ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
-<a href="https://heroku.com/deploy?template=https://github.com/VARC9210/STORM"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a>
+<a href="https://heroku.com/deploy?template=github.com/dhiraj7867/STORM"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a>
 
 ## ᴛᴇʟᴇɢʀᴀᴍ
 
@@ -45,9 +45,9 @@
 
 ## ᴏᴡɴᴇʀ ᴏꜰ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ
 
-<h2> <img src="https://github.com/VARC9210/STORM-USERBOT/blob/main/res/cat_gif.gif" width="90px"> KEX 🌿 <img src = "https://github.com/VARC9210/STORM-USERBOT/blob/main/res/cat1.gif" width="90px"> </h1>
+<h2> <img src="https://github.com/dhiraj7867/STORM-USERBOT/blob/main/res/cat_gif.gif" width="90px"> KEX 🌿 <img src = "https://github.com/dhiraj7867/STORM-USERBOT/blob/main/res/cat1.gif" width="90px"> </h1>
 
-[**KEX**](https://t.me/kexx_xd) 🌿
+[**KEX**](https://t.me/ii_dhiraj_ii) 🌿
 
 ## ᴅɪꜱᴄʟᴀɪᴍᴇʀ
 
