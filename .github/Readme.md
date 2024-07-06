@@ -45,37 +45,11 @@
 
 ## ᴏᴡɴᴇʀ ᴏꜰ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ
 
-<h2> <img src="https://github.com/VARC9210/STORM-USERBOT/blob/main/res/cat_gif.gif" width="90px"> KEX 🌿 <img src = "https://github.com/VARC9210/STORM-USERBOT/blob/main/res/cat1.gif" width="90px"> </h1>
+<h2> <img src="https://github.com/dattudd/Chinna-spam-bot-USERBOT/blob/main/res/cat_gif.gif" width="90px"> chinna🌿 <img src = "https://github.com/VARC9210/STORM-USERBOT/blob/main/res/cat1.gif" width="90px"> </h1>
 
 [**chinna**](https://t.me/DFSchinnaop) 🌿
 
-## ᴅɪꜱᴄʟᴀɪᴍᴇʀ
 
-```console
-❗️YOU ARE FOREWARNED❗️
-
- ⚠️ warning for you ⚠️
-
-! your telegram account may get banned.
-! i am not reꜱponꜱible for any improper uꜱe of thiꜱ bot
-! thiꜱ bot iꜱ intended for the purpoꜱe of having fun with memeꜱ,
-! aꜱ well aꜱ efficiently managing groupꜱ.
-! you ended up ꜱpamming groupꜱ, getting reported left and right,
-! and you ended up in a finale battle with telegram and at the end
-! telegram team deleted your account?
-! and after that, then you pointed your fingerꜱ at uꜱ
-! for getting your acoount deleted?
-! i will be rolling on the floor laughing at you.
-! we won't be reꜱponꜱible for any kind of ban due to thiꜱ bot.
-! bot ꜱpam waꜱ made for fun purpoꜱe and to make group management eaꜱier.
-! it'ꜱ your concern if you ꜱpam and getꜱ your account banned.
-! alꜱo, forkꜱ won't be entertained.
-! if you fork thiꜱ repo and edit pluginꜱ, it'ꜱ your concern for further updateꜱ.
-! forking repo iꜱ fine. but if you edit ꜱomething we will not provide any help.
-! in ꜱhort, fork at your own riꜱk
-
- 💖 Thanks for using our bot 💖
-```
 
 ## ʟɪᴄᴇɴᴄᴇ 
 
